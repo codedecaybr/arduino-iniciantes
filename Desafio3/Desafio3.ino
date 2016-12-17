@@ -1,5 +1,7 @@
 /*
   www.CodeDecay.com.br
+  Licença de uso: Apache 2.0
+  
   Liga os LEDs por 1 segundo, em seguida desliga os LEDs por 1 segundo.
   Lê o LDR na porta analógica 0.
   Lê o LM35Z na porta analógica 1 e faz a média da leitura para filtrar

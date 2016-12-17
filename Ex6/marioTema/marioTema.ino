@@ -1,6 +1,6 @@
 /*
  * www.CodeDecay.com.br
- *
+ * Licença de uso: Apache 2.0
  * Buzzer: Tema do Mario
  * Autora: http://www.nubiasouza.com.br/musica-tema-mario-arduino-speaker/
  *

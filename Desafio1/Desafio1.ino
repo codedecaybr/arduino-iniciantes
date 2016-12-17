@@ -1,5 +1,7 @@
 /*
   www.CodeDecay.com.br
+  Licença de uso: Apache 2.0
+  
   Liga o LED por 1 segundo, em seguida desliga o LED por 1 segundo.
 
   Nesse exercício vamos conectar LEDs externos nos pinos 11, 10 e 9 do

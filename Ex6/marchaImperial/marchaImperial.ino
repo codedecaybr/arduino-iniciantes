@@ -1,6 +1,6 @@
 /*
  * www.CodeDecay.com.br
- *
+ * Licença de uso: Apache 2.0
  * Buzzer: Marcha Imperial
  * Autor: http://www.instructables.com/member/eserra/
  *
