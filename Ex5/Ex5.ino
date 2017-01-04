@@ -33,7 +33,7 @@ void loop() {
   delay(1000);
 
   int temp = analogRead(A1); // le o sensor analogico na porta A1 - escala de 0 a 1023
-  float tempC = (temp * 5.0 * 100 ) / 1023.0; // Faz a conversao para graus Celcius
+  float tempC = (temp * 5.0 * 100 ) / 1023.0; // Faz a conversao para graus Celsius
   Serial.print("Temperatura: "); // escreve a palavra "Temperatura: " no monitor do computador
   Serial.print(tempC); // escreve o valor da temperatura lida na tela do computador
   Serial.println(" C");
